@@ -1,0 +1,8 @@
+{
+  "name": "bio-research",
+  "version": "1.0.0",
+  "description": "End-to-end support for biological research, from literature search and single-cell analysis to sequencing pipelines and clinical trial design. Covers drug discovery workflows and scientific strategy.",
+  "author": {
+    "name": "Anthropic"
+  }
+}
