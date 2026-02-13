@@ -1,0 +1,48 @@
+{
+  "name": "knowledge-work-plugins",
+  "version": "0.1.0",
+  "description": "Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code.",
+  "keywords": [
+    "claude",
+    "cowork",
+    "claude-code",
+    "plugins",
+    "knowledge-work",
+    "productivity",
+    "sales",
+    "customer-support",
+    "product-management",
+    "marketing",
+    "legal",
+    "finance",
+    "data",
+    "enterprise-search",
+    "bio-research"
+  ],
+  "homepage": "https://github.com/wagnert/knowledge-work-plugins#readme",
+  "bugs": {
+    "url": "https://github.com/wagnert/knowledge-work-plugins/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wagnert/knowledge-work-plugins.git"
+  },
+  "license": "Apache-2.0",
+  "author": "Anthropic",
+  "files": [
+    "bio-research/",
+    "cowork-plugin-management/",
+    "customer-support/",
+    "data/",
+    "enterprise-search/",
+    "finance/",
+    "legal/",
+    "marketing/",
+    "product-management/",
+    "productivity/",
+    "sales/",
+    ".claude-plugin/",
+    "LICENSE",
+    "README.md"
+  ]
+}
