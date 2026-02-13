@@ -2,6 +2,10 @@
   "name": "knowledge-work-plugins",
   "version": "0.1.0",
   "description": "Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code.",
+  "type": "module",
+  "bin": {
+    "cowork-link": "./scripts/link-plugin.js"
+  },
   "keywords": [
     "claude",
     "cowork",
@@ -42,6 +46,8 @@
     "productivity/",
     "sales/",
     ".claude-plugin/",
+    "lib/",
+    "scripts/",
     "LICENSE",
     "README.md"
   ]
